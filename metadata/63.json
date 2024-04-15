@@ -1,0 +1,11 @@
+{
+    "description": "Get ready to go nuts over NOOTS on-chain!",
+    "image": "https://raw.githubusercontent.com/BASEDNUT/NOOTS/main/assets/63.png",
+    "name": "NOOTS 63",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "ALMOND"
+        }
+    ]
+}

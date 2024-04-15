@@ -1,0 +1,11 @@
+{
+    "description": "Get ready to go nuts over NOOTS on-chain!",
+    "image": "https://raw.githubusercontent.com/BASEDNUT/NOOTS/main/assets/4625.png",
+    "name": "NOOTS 4625",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "COCONUTS"
+        }
+    ]
+}
