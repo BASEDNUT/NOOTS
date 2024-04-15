@@ -1,3 +1,8 @@
 # NOOTS
- 
-https://raw.githubusercontent.com/basednut/NOOTS/main/metadata/
+
+Name: NOOTS
+Ticker: NOOTS
+Set Supply: 100000
+Set Decimals: 18
+Set baseURI: https://raw.githubusercontent.com/basednut/NOOTS/main/metadata/
+Chain: BASE
